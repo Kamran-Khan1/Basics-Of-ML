@@ -209,5 +209,5 @@ Aspiring AI/ML Engineer | Computer Science & AI Student
 ---
 
 <p align="center">
-  <i>Learning by building. Improving through experimentation. Growing towards AI.</i>
+  <i>Ether I will cook AI or AI will cook me.</i>
 </p>
